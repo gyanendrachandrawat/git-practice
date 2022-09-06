@@ -10,4 +10,7 @@ nine
 ten
 11
 12
+<<<<<<< HEAD
 13
+=======
+>>>>>>> 783e0ee (Update first.txt)
